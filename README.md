@@ -7,6 +7,37 @@ This repository contains datasets related to our paper [A-Weighted-Sentiment-Dat
 - This dataset introduces a weight attribute (Uninformative, Informative, Complex), which adds a crucial secondary dimension. This enables researchers to analyze not only what the user feels but also the substantive value of the review, thereby supporting more advanced tasks such as Aspect-Based Sentiment Analysis (ABSA). For example, analyze reviews with mixed emotions. On the other hand, this label can be used to curate data, such as filtering uninformative reviews or studying the characteristics of complex user feedback.
 - This dataset facilitates and supports experiments in advanced NLP technologies, including BERT, LSTM, and LLMs, such as the user review sentiment classification task.
 
+## 🚀 Getting Started
+
+Follow the instructions below to set up and run the project locally on your machine.
+
+### 📋 Prerequisites
+
+Make sure you have the following software installed before proceeding:
+
+* **Python** (versi 3.9 atau lebih baru)
+* **Git**
+* **pip** (Python package manager)
+
+---
+
+### ⚙️ Installation
+
+1. **Clone repository:**
+   ```bash
+   git clone [https://github.com/IhyaKhoir/A-Weighted-Sentiment-Dataset-for-Indonesian-Telemedicine-Text-Classification.git](https://github.com/IhyaKhoir/A-Weighted-Sentiment-Dataset-for-Indonesian-Telemedicine-Text-Classification.git) 
+   cd A-Weighted-Sentiment-Dataset-for-Indonesian-Telemedicine-Text-Classification
+
+### 📂 Dataset Setup
+1. Download the dataset files from [Mendeley Data]().
+2. Extract and place the dataset files inside the data/ directory:
+<img width="404" height="134" alt="image" src="https://github.com/user-attachments/assets/c539286f-b38e-48f6-a6be-80cb63f7dd10" />
+
+### 💡 Usage
+<img width="1104" height="376" alt="image" src="https://github.com/user-attachments/assets/a7cc6c55-b798-43af-990f-2b77a323cc9d" />
+
+
+
 ## 📊Data Annotation
 - Each review in the dataset was manually annotated with a primary sentiment label: Positive, Neutral, or Negative, and a secondary weight label: Uninformative, Informative, or Complex.
 - The annotation process was based on clearly defined criteria (e.g., satisfaction/appreciation for positive; factual health questions for neutral; disappointment/complaints for negative) developed by the authors and reviewed by an expert in clinical psychology to ensure clinical and contextual relevance.

@@ -52,4 +52,4 @@ abstract = {The digital era has fundamentally transformed the global healthcare 
 ![alt text](https://github.com/IhyaKhoir/A-Weighted-Sentiment-Dataset-for-Indonesian-Telemedicine-Text-Classification/blob/d0fcd3fe108d42716f1b01ae9b334d8762a4f986/Asset/A%20Weighted%20Sentiment%20Dataset%20for%20Indonesian%20Telemedicine%20Text%20Classification.png)
 
 ## 📄License
-This dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) license
+This dataset is licensed under the [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/legalcode) - (CC BY 4.0) license

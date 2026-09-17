@@ -29,7 +29,7 @@ Make sure you have the following software installed before proceeding:
    cd A-Weighted-Sentiment-Dataset-for-Indonesian-Telemedicine-Text-Classification
 
 ### 📂 Dataset Setup
-1. Download the dataset files from [Mendeley Data]().
+1. Download the dataset files from [Mendeley Data](https://data.mendeley.com/datasets/rmmmf2dp8d/3).
 2. Extract and place the dataset files inside the data/ directory:
 <img width="404" height="134" alt="image" src="https://github.com/user-attachments/assets/c539286f-b38e-48f6-a6be-80cb63f7dd10" />
 

@@ -15,9 +15,9 @@ Follow the instructions below to set up and run the project locally on your mach
 
 Make sure you have the following software installed before proceeding:
 
-* **Python** (versi 3.9 atau lebih baru)
+* **Python** 
 * **Git**
-* **pip** (Python package manager)
+* **pip** 
 
 ---
 
